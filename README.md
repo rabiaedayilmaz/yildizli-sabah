@@ -1,6 +1,4 @@
-# Neural Style Transfer
-
-## Yildizli Sabah
+## Yıldızlı Sabah
 
 Image Style Transfer algoritması ile fakülteye giderken çektiğim bir fotoğrafı Van Gogh'un Yıldızlı Gece tablosu ile yeniden stilize ettim.
 Bu algoritma, kısaca verdiğiniz bir resmi istediğiniz bir stilde tekrardan oluşturabiliyor.
